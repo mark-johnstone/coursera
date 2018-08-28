@@ -51,4 +51,25 @@ class HuffmanSuite extends FunSuite {
     }
   }
 
+  test("french code") {
+    new TestTrees {
+      val v: List[(Char)] = decode(frenchCode, secret)
+//      println(v)
+    }
+  }
+
+  test("encode") {
+    new TestTrees{
+      val toEncode = List('h', 'u', 'f', 'f', 'm', 'a', 'n', 'e', 's', 't', 'c', 'o', 'o', 'l')
+
+      val encodedValue =  encode(frenchCode)(toEncode)
+
+      assert(encodedValue.equals(secret))
+//      println(encodedValue)
+//      println(secret)
+
+    }
+
+
+  }
 }
