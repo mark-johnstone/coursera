@@ -1,0 +1,440 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetData$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetData.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$unparseToData$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Cons.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Empty.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$$anonfun$1.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Nil$.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Nil.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/NonEmpty.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Tweet.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetList$class.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetList.class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetSet.class
+binary dependencies:
+8 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> /home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> /home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> /home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> common.package
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> common.package$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$toTweetSet$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$unparseToData$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweetData$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweets$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Cons
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Empty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$$anonfun$1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$delayedInit$body
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil$
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.NonEmpty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Tweet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList$class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetSet
+used names:
+245 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> ::
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> <init>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> <repeated>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> ?0
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> A
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Any
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> AnyRef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> B
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Boolean
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Class
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> File
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> FileInputStream
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Function2
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> InputStream
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> List
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> None
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Nothing
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Object
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Option
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Predef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> Some
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> String
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> URI
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> URL
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> _root_
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> child
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> children
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> classesDir
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> common
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> exists
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> file
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> foldLeft
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> getClass
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> getParentFile
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> getResource
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> io
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> java
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> package
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> projectDir
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> resourceFile
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> resourcePath
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> subFile
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> toURI
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> <init>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> AnyRef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> CNET
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> Object
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> String
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> TechCrunch
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> TweetData
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> amazondeals
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> engadget
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> gadgetlab
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> gizmodo
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> mashable
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> objsets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> +
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> ++
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> ->
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> <init>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> <repeated>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> A
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> A1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Any
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> AnyRef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> ArrowAssoc
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> B
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> B1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Boolean
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> CNET
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> CanBuildFrom
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Coll
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Double
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Empty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Function1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Function2
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> GenIterable
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> GenTraversableOnce
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Int
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> JSON
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> List
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Map
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Nothing
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Object
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Option
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> ParseTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Predef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Seq
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> String
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> StringBuffer
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> StringOps
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> T
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> T0
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> TechCrunch
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> That
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Tuple2
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Tweet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> TweetData
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> TweetReader
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> TweetSet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> U
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> Unit
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> acc
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> allTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> amazondeals
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> amazondealsTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> append
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> apply
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> asInstanceOf
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> augmentString
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> buf
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> canBuildFrom
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> cnetTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> collection
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> curSets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> engadget
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> engadgetTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> foldLeft
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> foreach
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlab
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlabTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> get
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> getList
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> getTweetData
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodo
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodoTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> head
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> immutable
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> incl
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> isEmpty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> java
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> json
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> l
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> lang
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> map
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> mashable
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> mashableTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> objsets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> package
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> parseFull
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> parsing
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> replaceAll
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> retweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> s
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> siteTweetSetMap
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> sites
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> sources
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tail
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> techCrunchTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> text
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> toDouble
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> toInt
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> toString
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> toTweetSet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tw
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tweetMap
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tweetSets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> tws
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> union
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> unionOfAllTweetSets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> user
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> util
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> zip
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> &&
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> +
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> <
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> <init>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> <repeated>
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> >
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> A
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Any
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> AnyRef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> App
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Boolean
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> CharSequence
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Cons
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Empty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Function1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> GoogleVsApple
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Int
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> List
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Main
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Nil
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> NoSuchElementException
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> NonEmpty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Nothing
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Object
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Predef
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> String
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> StringOps
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Tweet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> TweetList
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> TweetReader
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> TweetSet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> Unit
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> _root_
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> acc
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> allTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> apple
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> appleTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> apply
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> augmentString
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> contains
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> descendingByRetweet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> e
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> elem
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> exists
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> f
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> filter
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> filterAcc
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> foreach
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> google
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> googleTweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> head
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> highest
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> immutable
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> incl
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> isEmpty
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> java
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> left
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> mostRetweeted
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> objsets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> p
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> println
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> remove
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> retweets
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> right
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> scala
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> t1
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> t2
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> tail
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> text
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> that
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> trending
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> tw
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> tweet
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> unary_!
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> union
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> user
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> util
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> x
+product stamps:
+32 items
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/common/package.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Cons.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Empty.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$$anonfun$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Main.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Nil$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Nil.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/NonEmpty.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/Tweet.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetData$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetData.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetList$class.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetList.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$unparseToData$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetReader.class -> lastModified(1535473531000)
+/home/mark/Documents/Scala/git/coursera/objsets/target/scala-2.11/classes/objsets/TweetSet.class -> lastModified(1535473531000)
+source stamps:
+4 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> hash(777a27a2b5ac36c3e19a8721c5c885e397664dff)
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> hash(9bf9247ca2ed3966a673cef172ec6c484aa0660b)
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> hash(4858ccc662f33511d6c08bb0661b3f92981c62ce)
+binary stamps:
+3 items
+/home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar -> lastModified(1430402867000)
+/home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1532592624000)
+class names:
+3 items
+/home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar -> scala.util.parsing.json.JSON$
+/home/mark/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.App
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+4 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWWBWqa2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9ob21lL21hcmsvRG9jdW1lbnRzL1NjYWxhL2dpdC9jb3Vyc2VyYS9vYmpzZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwud7l1wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwV9ZJ0HQABm5vdGlmeXNxAH4ADEOIt1h0AAthbWF6b25kZWFsc3NxAH4ADMH0+uR0AARDTkVUc3EAfgAMuJIYr3QAB2dpem1vZG9zcQB+AAzOfoxSdAAEd2FpdHNxAH4ADOx5DT50AA0kYXNJbnN0YW5jZU9mc3EAfgAMLLh0nHQACG1hc2hhYmxlc3EAfgAMw44WbXQACWdhZGdldGxhYnNxAH4ADKVn5kp0AAZlcXVhbHNzcQB+AAyrOe08dAAMYXNJbnN0YW5jZU9mc3EAfgAM2qvrtHQADHN5bmNocm9uaXplZHNxAH4ADKRNk2R0AAhlbmdhZGdldHNxAH4ADBKAcn50AAlUd2VldERhdGFzcQB+AAySgqt7dAANJGlzSW5zdGFuY2VPZnNxAH4ADFygrBJ0AAlub3RpZnlBbGxzcQB+AAwwftqIdAAMaXNJbnN0YW5jZU9mc3EAfgAMmv36AnQAAj09c3EAfgAM5uXpWnQABWNsb25lc3EAfgAMGFOUEHQACHRvU3RyaW5nc3EAfgAMbTeYFXQAAiE9c3EAfgAMf4onYHQACGdldENsYXNzc3EAfgAMnRJ3uXQAAm5lc3EAfgAMF46TmXQAClRlY2hDcnVuY2hzcQB+AAyu4bSNdAACZXFzcQB+AAwqlvaudAACIyNzcQB+AAw1gjSidAAIZmluYWxpemVzcQB+AAx8oLUjdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAARb2Jqc2V0cy5Ud2VldERhdGF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBqc3EAfgBldXEAfgBIAAAAAHNxAH4AZXVxAH4ASAAAAABzcQB+AGV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWWBWqa2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9ob21lL21hcmsvRG9jdW1lbnRzL1NjYWxhL2dpdC9jb3Vyc2VyYS9vYmpzZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR3eieitaw2w+GahyHFyIXjl2ZN/w==
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhsIXNwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsA3VDXQABm5vdGlmeXNxAH4ADOM01rx0AAR3YWl0c3EAfgAMrJiF8XQAC1R3ZWV0UmVhZGVyc3EAfgAMRU4OanQADSRhc0luc3RhbmNlT2ZzcQB+AAwReQzUdAALUGFyc2VUd2VldHNzcQB+AAxKZZNldAAGZXF1YWxzc3EAfgAMjVr2PHQADGFzSW5zdGFuY2VPZnNxAH4ADEJV40R0AAxzeW5jaHJvbml6ZWRzcQB+AAxGh+D0dAAJZ2V0VHdlZXRzc3EAfgAMAQNzMXQACHR3ZWV0TWFwc3EAfgAMefi+OnQADSRpc0luc3RhbmNlT2ZzcQB+AAyKc9hWdAAGZ2V0TWFwc3EAfgAMmK4GSnQACW5vdGlmeUFsbHNxAH4ADMxW1OJ0AAxpc0luc3RhbmNlT2ZzcQB+AAygxPDKdAAJYWxsVHdlZXRzc3EAfgAMQeF+BnQADGdldFR3ZWV0RGF0YXNxAH4ADMdIEfh0AAp0b1R3ZWV0U2V0c3EAfgAMdFYR23QAAj09c3EAfgAMjBiZDnQABWNsb25lc3EAfgAMDumrDnQAB2dldExpc3RzcQB+AAzYGyWMdAAIdG9TdHJpbmdzcQB+AAxuws+edAACIT1zcQB+AAy8b5SDdAAIZ2V0Q2xhc3NzcQB+AAx3Rb4kdAAFc2l0ZXNzcQB+AAznfGBOdAANdW5wYXJzZVRvRGF0YXNxAH4ADDndpLZ0AAJuZXNxAH4ADLYdnXp0AAl0d2VldFNldHNzcQB+AAzHjee5dAACZXFzcQB+AAzpnv3ndAACIyNzcQB+AAww/FwMdAAIZmluYWxpemVzcQB+AAyNO0rPdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATb2Jqc2V0cy5Ud2VldFJlYWRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHJzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AcXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AinQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AfnQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHb2Jqc2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZYFaprZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABJL2hvbWUvbWFyay9Eb2N1bWVudHMvU2NhbGEvZ2l0L2NvdXJzZXJhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJv5JHyi7TlmpnPO8XLsbEhKoGYL
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJZgZvwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwvH+qKXQABm5vdGlmeXNxAH4ADMDoGhh0ABNkZXNjZW5kaW5nQnlSZXR3ZWV0c3EAfgAM27g+7XQADUdvb2dsZVZzQXBwbGVzcQB+AAyPcBJVdAADTmlsc3EAfgAM/t+gvHQABHdhaXRzcQB+AAzdNhpHdAANJGFzSW5zdGFuY2VPZnNxAH4ADLerxnV0AAV1bmlvbnNxAH4ADHA794h0AAZlcXVhbHNzcQB+AAxIMSw4dAAJZmlsdGVyQWNjc3EAfgAM/7W+5XQABGhlYWRzcQB+AAxSZvEWdAAMYXNJbnN0YW5jZU9mc3EAfgAMleFeCnQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMlGGPSXQABGluY2xzcQB+AAz3kkh7dAAMc3luY2hyb25pemVkc3EAfgAMT0FNGHQADSRpc0luc3RhbmNlT2ZzcQB+AAwmPZuTdAAJVHdlZXRMaXN0c3EAfgAMoT1d+nQABmdvb2dsZXNxAH4ADFjl8+p0AAR0ZXh0c3EAfgAMTIeMAXQADW1vc3RSZXR3ZWV0ZWRzcQB+AAwJKIJCdAAEdGFpbHNxAH4ADDmhVn10AARtYWluc3EAfgAMvM0QqHQACHJldHdlZXRzc3EAfgAMSnlJ7XQABENvbnNzcQB+AAzoQjX7dAAJbm90aWZ5QWxsc3EAfgAMMuR5c3QADGlzSW5zdGFuY2VPZnNxAH4ADAo8t0J0AAZmaWx0ZXJzcQB+AAyQHQmedAAGPGluaXQ+c3EAfgAMbfrtKXQABnJlbW92ZXNxAH4ADBRLF790AAdoaWdoZXN0c3EAfgAMvO/yDXQABUVtcHR5c3EAfgAMTqJFRnQAAj09c3EAfgAMCG3Sv3QABWNsb25lc3EAfgAMTfgM7HQAB2ZvcmVhY2hzcQB+AAyxyRpUdAAFVHdlZXRzcQB+AAwdb0h1dAAGJGluaXQkc3EAfgAMqU1JRHQACFR3ZWV0U2V0c3EAfgAMeSRSLHQABE1haW5zcQB+AAxp3XLrdAAIdG9TdHJpbmdzcQB+AAwzsF5EdAAEYXJnc3NxAH4ADODD5z10AAVhcHBsZXNxAH4ADGwpCaV0AAIhPXNxAH4ADIwXc750AAhnZXRDbGFzc3NxAH4ADAlAaN90AAxnb29nbGVUd2VldHNzcQB+AAy1ot2ydAAIY29udGFpbnNzcQB+AAxW76RVdAAHaXNFbXB0eXNxAH4ADJfd7Td0AAJuZXNxAH4ADPvyOfF0AAh0cmVuZGluZ3NxAH4ADF2yIEZ0AAR1c2Vyc3EAfgAMFRv8qnQAAmVxc3EAfgAMGCyZe3QACE5vbkVtcHR5c3EAfgAMPe22n3QAC2RlbGF5ZWRJbml0c3EAfgAMl/Tvw3QAAiMjc3EAfgAMBYtgV3QAC2FwcGxlVHdlZXRzc3EAfgAMcrIZT3QACGZpbmFsaXplc3EAfgAM74YuY3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAACXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADW9ianNldHMuVHdlZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB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xAH4AlQAAAABxAH4BRnVxAH4AmwAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+AJ1xAH4Ao3NxAH4AnXNxAH4ApXNxAH4AnXVxAH4AgAAAAABzcQB+AJ11cQB+AIAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIZxAH4Aj3VxAH4AkAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+Aa94cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgCudAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AMhxAH4AwXNxAH4AkgBxAH4AN3VxAH4AlQAAAABzcQB+AK50AARVbml0cQB+Ab51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgGveHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCYdAAFUGxhaW5xAH4AW3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ar1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4ArnQABUFycmF5cQB+Ab51cQB+AKwAAAABc3EAfgCudAAGU3RyaW5nc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgC9c3EAfgC6cQB+AL9xAH4AwXNxAH4AnXVxAH4ArAAAAARzcQB+AK50AANBcHBxAH4BvnNxAH4ArnQAC0RlbGF5ZWRJbml0cQB+Ab5zcQB+AK5xAH4AsXEAfgHbc3EAfgCucQB+AMNxAH4BvnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWWBWqa2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASS9ob21lL21hcmsvRG9jdW1lbnRzL1NjYWxhL2dpdC9jb3Vyc2VyYS9vYmpzZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRIWMzGYvM1EdbAi7BmGz+SmBxizg==
+external apis:
+0 items
+source infos:
+4 items
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetData.scala -> 
+AAAAAAAAAAA=
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetReader.scala -> 
+AAAAAAAAAAA=
+/home/mark/Documents/Scala/git/coursera/objsets/src/main/scala/objsets/TweetSet.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZYFaprZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASS9ob21lL21hcmsvRG9jdW1lbnRzL1NjYWxhL2dpdC9jb3Vyc2VyYS9vYmpzZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
