@@ -37,29 +37,25 @@ object Anagrams {
   def wordOccurrences(w: Word): Occurrences = {
 
 
-    // Filter charList on characters, add the filtered list size as the count
-
-    def countLetters(charList: List[(Char)]): List[(Char, Int)] = {
-      if (charList.tail.isEmpty) List((charList.head, 1)) // TODO update to check if list contains char already
-      else {
-        List((charList.head, 1)) ::: countLetters(charList.tail)
+    /** Takes a list of characters and counts how many of each character is present.
+      *
+      * @param chars a list of characters
+      * @return List[(Char, Int)] which is a list of each character and number of times it appeared in the input
+      */
+    def countLetters(chars: List[(Char)]): List[(Char, Int)] = {
+      chars match {
+        case x :: xs if (xs.isEmpty) => List((x.toLower, 1))
+        case x :: _ => List((x.toLower, chars.filter(y => y.toLower == x.toLower).size)) ::: countLetters(chars.filter(y => y.toLower != x.toLower))
       }
     }
 
-    def findMultiples(chars: List())
-// V1
-//    def countLetters(charList: List[(Char)]): List[(Char, Int)] = {
-//      if (charList.tail.isEmpty) List((charList.head, 1)) // TODO update to check if list contains char already
-//      else {
-//        List((charList.head, 1)) ::: countLetters(charList.tail)
-//      }
-//    }
-
-    countLetters(w.toList) // Currently only returns list of letters and counts 1, needs to be updated to check if letters are duplicates
+    countLetters(w.toList)
   }
 
   /** Converts a sentence into its character occurrence list. */
-  def sentenceOccurrences(s: Sentence): Occurrences = ???
+  def sentenceOccurrences(s: Sentence): Occurrences = {
+    wordOccurrences(s.mkString)
+  }
 
   /** The `dictionaryByOccurrences` is a `Map` from different occurrences to a sequence of all
     * the words that have that occurrence count.
@@ -76,7 +72,9 @@ object Anagrams {
     * List(('a', 1), ('e', 1), ('t', 1)) -> Seq("ate", "eat", "tea")
     *
     */
-  lazy val dictionaryByOccurrences: Map[Occurrences, List[Word]] = ???
+  lazy val dictionaryByOccurrences: Map[Occurrences, List[Word]] = {
+
+  }
 
   /** Returns all the anagrams of a given word. */
   def wordAnagrams(word: Word): List[Word] = ???
